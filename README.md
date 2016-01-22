@@ -8,5 +8,6 @@ contact: imkromhout@gmail.com
 ![my_favorite_bird](putter.JPG)
 
 picture of my favorite bird, the european goldfinch (Carduelis carduelis)
+
 (source: http://www.edm-natuurfoto.nl)
 
